@@ -225,10 +225,12 @@ a img{
   }
 
 .slides-title{
+  color: #032e3d;
   font-weight: 500;
   font-size: 40px;
   margin: 30px;
   padding-bottom: 50px;
+  line-height: 50px;
 }
 
 .android-screen-section {
@@ -394,6 +396,7 @@ a img{
 
   .android-customized-section-text p {
     padding-top: 16px;
+    max-width: 800px;
   }
 
 .android-customized-section-image {
